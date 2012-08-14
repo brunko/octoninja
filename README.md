@@ -8,3 +8,4 @@ Another edit
 14-08-2012
 This line no longer conflicts with the other
 Nor this line
+Another line added. The file's growing!
